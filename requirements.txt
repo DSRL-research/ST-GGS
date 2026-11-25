@@ -1,0 +1,8 @@
+matpowercaseframes==2.1.1
+numpy==2.4.6
+pandapower==3.5.4
+pandas==2.3.3
+scipy==1.16.3
+torch==2.13.0
+torch-geometric==2.8.0.post1
+tqdm==4.69.0
